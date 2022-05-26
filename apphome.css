@@ -2,7 +2,9 @@
     font-size: 52px;
     color: green;
 }
-
+.p{
+    font:Georgia, serif;
+  }
 .navbar {
     background-color: #29846e;
     margin: 0px;
